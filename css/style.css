@@ -1,0 +1,11 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    background-image: url('https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg');
+}
+
+.main-container {
+    height: 100vh;
+    background-color: blue;
+    opacity: 0.5;
+}
